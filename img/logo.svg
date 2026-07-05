@@ -1,0 +1,17 @@
+<svg width="360" height="70" viewBox="0 0 360 70" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PresencIA">
+  <title>PresencIA</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&amp;display=swap');
+    .wordmark {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-weight: 700;
+      font-size: 42px;
+      letter-spacing: -0.01em;
+    }
+    .base { fill: #f0ece4; }
+    .accent { fill: #c9a15a; }
+  </style>
+  <text x="0" y="48" class="wordmark">
+    <tspan class="base">Presenc</tspan><tspan class="accent">IA</tspan>
+  </text>
+</svg>
