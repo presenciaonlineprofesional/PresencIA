@@ -1,4 +1,4 @@
-# ¡Hola! Soy Camila Rabelo de Amorim 👋
+# ¡Hola! Soy Camila Rabelo 👋
 
 **Data Analyst + Applied AI** | Ex-profesional de Administración y RRHH con +14 años de experiencia internacional (Brasil, Italia, Portugal, España)
 
@@ -32,6 +32,16 @@ Plataforma web integral de orientación laboral para personas extranjeras que bu
 - 🔗 Demo en vivo: https://proyectotalentosinfronteras.github.io/talento_sin_fronteras/
 
 ---
+con qué trabajo
+<div align="center">
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Mostrar imagen Mostrar imagen
+
+</div> <br>
 
 ## 🛠️ Tecnologías y herramientas
 
